@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Vadim/Documents/ML/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+algorithm
+-
+numeric
+-
+tuple
+-
+fstream
+-
+random
+-
+memory
+-
+
